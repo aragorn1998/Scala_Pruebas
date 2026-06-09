@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Quiero ver cómo aparecerá este documento. Y ahora en local también. Y ahora quiero ver si soy capaz de recuperar una versión anterior de commit
-=======
 Quiero ver cómo aparecerá este documento
->>>>>>> parent of e1065b7 (Update Prueba_concepto_1.txt)
