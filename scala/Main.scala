@@ -1,5 +1,5 @@
 object Main {
-    case class Record(key: String, value: Int)
+  case class Record(key: String, value: Int)
   def main(args: Array[String]): Unit = {
     val data = Seq(
     Record("A", 1),
